@@ -15,6 +15,24 @@
     color:           #3f3f3f;
 }
 
+#about-card-job a {
+    color:       #5d686f;
+}
+
+#about-card-job a:hover, a:active {
+    text-decoration: none;
+    color:           #3f3f3f;
+}
+
+#about-card-location a {
+    color:       #5d686f;
+}
+
+#about-card-location a:hover, a:active {
+    text-decoration: none;
+    color:           #3f3f3f;
+}
+
 @media only screen and (max-width: 767px) {
     #about #about-card #about-card-picture {
         width: 120px;
