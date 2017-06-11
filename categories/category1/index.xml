@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category1 on Adrian Visan</title>
+    <link>http://adrianvisan.com/categories/category1/</link>
+    <description>Recent content in Category1 on Adrian Visan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jun 2017 03:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://adrianvisan.com/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>papa</title>
+      <link>http://adrianvisan.com/2017/06/papa/</link>
+      <pubDate>Sun, 11 Jun 2017 03:00:00 +0000</pubDate>
+      
+      <guid>http://adrianvisan.com/2017/06/papa/</guid>
+      <description>Etiam egestas arcu turpis, id venenatis erat interdum et. In cursus magna elementum sem dapibus gravida. Mauris sit amet risus consectetur, hendrerit sapien sit amet, ultrices sem. Sed tristique bibendum dolor in sollicitudin. Vivamus elementum leo magna, tincidunt fringilla tellus eleifend at. In tempus quam ac egestas accumsan. Maecenas eu nisi id ligula placerat volutpat. Quisque fringilla iaculis tincidunt. Praesent vehicula dolor eu mollis faucibus.
+Cras commodo sit amet odio eget tempor.</description>
+    </item>
+    
+    <item>
+      <title>lala</title>
+      <link>http://adrianvisan.com/2017/06/lala/</link>
+      <pubDate>Sun, 11 Jun 2017 01:00:00 +0000</pubDate>
+      
+      <guid>http://adrianvisan.com/2017/06/lala/</guid>
+      <description>Sed at imperdiet nisi. Ut urna justo, finibus vel efficitur non, ornare eu justo. Aliquam euismod fringilla felis in dictum. Vivamus euismod iaculis malesuada. Vestibulum vel magna dolor. Maecenas auctor purus vitae pulvinar vestibulum. Suspendisse massa ipsum, euismod et arcu ac, finibus condimentum tortor. Ut at rhoncus est, non molestie neque. Pellentesque porta, sapien nec lobortis viverra, urna libero luctus dui, vel sollicitudin urna sem vitae nisl. Etiam a maximus tortor, quis convallis nisi.</description>
+    </item>
+    
+    <item>
+      <title>good</title>
+      <link>http://adrianvisan.com/2017/06/good/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrianvisan.com/2017/06/good/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempus erat lectus. Mauris vulputate ut ligula non rutrum. Proin aliquet mauris sed odio maximus, nec ullamcorper eros efficitur. Morbi ut tristique purus. Ut in pellentesque ante. Morbi aliquam orci sit amet lacus rhoncus congue. Nulla tellus lectus, dapibus vitae euismod at, congue eu magna. Vivamus nec euismod elit. Etiam sit amet sodales odio. Integer nec malesuada leo, quis sodales dolor. Donec sed purus a est pulvinar faucibus vel eu diam.</description>
+    </item>
+    
+  </channel>
+</rss>

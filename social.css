@@ -1,0 +1,16 @@
+#about-card-social {
+    margin-top: 30px;
+}
+
+#about-card-social a {
+    color:       #5d686f;
+    width:       45px;
+    height:      45px;
+    line-height: 45px;
+    font-size:   2.7rem;
+}
+
+#about-card-social a:hover, a:active {
+    text-decoration: none;
+    color:           #3f3f3f;
+}

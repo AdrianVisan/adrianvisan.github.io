@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://adrianvisan.com/2017/06/tata/</loc>
+    <lastmod>2017-06-11T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/2017/06/papa/</loc>
+    <lastmod>2017-06-11T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/2017/06/lala/</loc>
+    <lastmod>2017-06-11T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/2017/06/good/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/</loc>
+    <lastmod>2017-06-11T04:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/categories/category1/</loc>
+    <lastmod>2017-06-11T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/categories/category2/</loc>
+    <lastmod>2017-06-11T04:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/post/</loc>
+    <lastmod>2017-06-11T04:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/categories/subcategory1/</loc>
+    <lastmod>2017-06-11T04:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/categories/subcategory2/</loc>
+    <lastmod>2017-06-11T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/tags/tag1/</loc>
+    <lastmod>2017-06-11T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/tags/tag2/</loc>
+    <lastmod>2017-06-11T04:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/tags/tag3/</loc>
+    <lastmod>2017-06-11T04:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adrianvisan.com/tags/</loc>
+    <lastmod>2017-06-11T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

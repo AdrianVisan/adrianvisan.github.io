@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag3 on Adrian Visan</title>
+    <link>http://adrianvisan.com/tags/tag3/</link>
+    <description>Recent content in Tag3 on Adrian Visan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jun 2017 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://adrianvisan.com/tags/tag3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tata</title>
+      <link>http://adrianvisan.com/2017/06/tata/</link>
+      <pubDate>Sun, 11 Jun 2017 04:00:00 +0000</pubDate>
+      
+      <guid>http://adrianvisan.com/2017/06/tata/</guid>
+      <description>Donec bibendum sed magna in faucibus. Sed placerat feugiat volutpat. Nunc posuere facilisis nulla, vitae mollis neque venenatis quis. Sed mattis metus vitae lorem congue fringilla. Duis a egestas justo. Sed volutpat sem vitae lacus bibendum, vel tempor tortor condimentum. Nullam tincidunt nulla eu metus pellentesque, id iaculis nibh tristique. Praesent tincidunt sodales accumsan. Integer vel suscipit mi, eget congue neque. Sed sed scelerisque mauris. In convallis in sapien sit amet tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>papa</title>
+      <link>http://adrianvisan.com/2017/06/papa/</link>
+      <pubDate>Sun, 11 Jun 2017 03:00:00 +0000</pubDate>
+      
+      <guid>http://adrianvisan.com/2017/06/papa/</guid>
+      <description>Etiam egestas arcu turpis, id venenatis erat interdum et. In cursus magna elementum sem dapibus gravida. Mauris sit amet risus consectetur, hendrerit sapien sit amet, ultrices sem. Sed tristique bibendum dolor in sollicitudin. Vivamus elementum leo magna, tincidunt fringilla tellus eleifend at. In tempus quam ac egestas accumsan. Maecenas eu nisi id ligula placerat volutpat. Quisque fringilla iaculis tincidunt. Praesent vehicula dolor eu mollis faucibus.
+Cras commodo sit amet odio eget tempor.</description>
+    </item>
+    
+  </channel>
+</rss>
