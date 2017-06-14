@@ -15,6 +15,10 @@
     color:           #3f3f3f;
 }
 
+#about #about-card #about-card-name {
+    margin-top: 15px;
+}
+
 #about-card-job a {
     color:       #5d686f;
 }
@@ -31,6 +35,36 @@
 #about-card-location a:hover, a:active {
     text-decoration: none;
     color:           #3f3f3f;
+}
+
+#about-card-picture {
+    display: inline;
+}
+
+#about-card-picture-face, #about-card-picture-logo {
+    backface-visibility: hidden;
+    transition: 0.5s;
+    transform-style: preserve-3d;
+    
+    width: inherit;
+    height: inherit;
+}
+
+#about-card-picture-face {
+    border-radius: inherit;
+    transform: translateX(50%) rotateY(0deg);
+}
+
+#about-card-picture-logo {
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+#about-card-picture.flipped #about-card-picture-face {
+    transform: translateX(50%) rotateY(180deg);
+}
+
+#about-card-picture.flipped #about-card-picture-logo {
+    transform: translateX(-50%) rotateY(360deg);
 }
 
 @media only screen and (max-width: 767px) {

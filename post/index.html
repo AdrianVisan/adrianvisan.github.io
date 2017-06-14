@@ -500,9 +500,12 @@ ga('send', 'pageview');
     <div id="about-btn-close">
       <i class="fa fa-remove"></i>
     </div>
-    
-      <img id="about-card-picture" src="http://adrianvisan.com/profile_verysmall.png" alt="Author&#39;s picture" />
-    
+    <div id="about-card-picture" onclick="this.classList.toggle('flipped');" on-tap="this.classList.toggle('flipped');">
+      
+        <img id="about-card-picture-face" src="http://adrianvisan.com/profile_verysmall.png" alt="Author&#39;s picture" />
+      
+      <img id="about-card-picture-logo"  src="./CardLogo.png"/>
+    </div>
     <h4 id="about-card-name">Adrian Visan</h4>
     
       <div id="about-card-bio">Input Coffee :: Output Code</div>
