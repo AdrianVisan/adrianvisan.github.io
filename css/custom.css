@@ -1,0 +1,11 @@
+a.header-title-link::before {
+    content: "";
+    display: inline-block;
+    width: 32px;
+    height: 18px;
+    background: url('http://adrianvisan.com/favicon.ico');
+    background-size: 24px 24px;
+    background-repeat: no-repeat;
+    margin-bottom: -6px;
+    padding-bottom: 6px;
+}
